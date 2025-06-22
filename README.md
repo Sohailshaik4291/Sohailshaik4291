@@ -26,7 +26,7 @@ I'm eager to contribute to dynamic teams where I can apply my technical skills a
 
 - 📧 Email: sohailshaik4291@gmai.com
 - 💼 LinkedIn: https://www.linkedin.com/in/shaik-sohail-6baa95244/
-- 📂 Portfolio: https://github.com/Sohailshaik4291/Sohailshaik4291/
+- 📂 Portfolio: https://github.com/Sohailshaik4291/
 
 ---
 
